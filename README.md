@@ -44,3 +44,24 @@ Jangan lupa push dengan pesan commit: "W09: Jawaban soal 6".
 ![alt text](image6.png)
 ![alt text](image7.png)
 
+Soal 7
+Lakukan capture dan push hasilnya, kemudian buatlah laporan di file README.md. Jelaskan apa yang telah Anda pelajari ?
+
+Jangan lupa push dengan pesan commit: "W09: Jawaban soal 7".
+
+![alt text](image8.png)
+
+
+Tugas Praktikum
+
+Jika Anda perhatikan pada file src\app\page.tsx untuk komponen Card sebenarnya telah dibuat sebagai molecules pada file src\app\components\molecules\card.tsx yaitu komponen CardWrapper. Silakan Anda sesuaikan sehingga dapat tampil seperti gambar berikut.
+
+![alt text](image-1.png)
+
+Perhatikan fungsi fetchCardData() (pada file src\model\query.tsx) dari soal nomor 1. Jelaskan maksud kode dan kueri yang dilakukan dalam fungsi tersebut!
+jawaban :
+Fungsi fetchCardData() adalah untuk mengambil  data statistik yang user akan ditampilkan pada dashboard aplikasi. Data  yang diambil antara lain adalah :
+jumlah total invoice
+jumlah total pelanggan
+total jumlah invoice yang telah dibayar 
+total jumlah invoice yang masih pending.
