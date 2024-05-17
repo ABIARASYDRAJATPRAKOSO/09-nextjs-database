@@ -19,3 +19,10 @@ Capture hasil npm run seed Anda dan buatlah laporan di file README.md. Jelaskan 
 Jangan lupa push dengan pesan commit: "W09: Jawaban soal 3".
 
 ![alt text](image4.png)
+
+Soal 4
+Capture hasil query Anda dan buatlah laporan di file README.md. Jelaskan apa yang telah Anda pelajari ? Cobalah eksekusi query SQL yang lain sesuai kreasi Anda, capture hasilnya dan jelaskan!
+
+Jangan lupa push dengan pesan commit: "W09: Jawaban soal 4".
+
+![alt text](image5.png)
