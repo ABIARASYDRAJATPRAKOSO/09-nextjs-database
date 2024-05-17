@@ -26,3 +26,12 @@ Capture hasil query Anda dan buatlah laporan di file README.md. Jelaskan apa yan
 Jangan lupa push dengan pesan commit: "W09: Jawaban soal 4".
 
 ![alt text](image5.png)
+
+Soal 5
+
+Lakukan push, kemudian perhatikan di akun dashboard Vercel project Anda. Capture dan lampirkan link aplikasi Anda yang telah berhasil di deploy, kemudian buatlah laporan di file README.md. Jelaskan apa yang telah Anda pelajari ?
+
+Jangan lupa push dengan pesan commit: "W09: Jawaban soal 5".
+![alt text](image6.png)
+
+Link Domain :
